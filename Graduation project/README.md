@@ -35,7 +35,7 @@
 * DFD логического уровня;
 * ER-диаграмма;
 * словарь данных;
-* диаграмма структуры интерфейсов;
+* [диаграмма структуры интерфейсов](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-ISD.png);
 * прототип приложения;
 * программа и методика испытаний;
 * презентация проекта.
