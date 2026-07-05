@@ -21,7 +21,7 @@
 * спецификация требований;
 * логическая модель данных;
 * [ER-диаграмма](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Data%20modeling%20and%20working%20with%20the%20online%20store%20database/photo_2026-07-05_13-29-01.jpg);
-* словарь данных.
+* [словарь данных](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Data%20modeling%20and%20working%20with%20the%20online%20store%20database/data-dictionary.png).
 
 ## Инструменты и нотации
 
