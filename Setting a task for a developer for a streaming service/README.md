@@ -21,8 +21,7 @@
 * [диаграмма последовательности](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Setting%20a%20task%20for%20a%20developer%20for%20a%20streaming%20service/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_-_74_%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0.drawio.png);
 * результаты проверки API;
 * описание новой операции API;
-* задача на разработку;
-* ретроспективный анализ команды.
+* задача на разработку.
 
 ## Инструменты и нотации
 
