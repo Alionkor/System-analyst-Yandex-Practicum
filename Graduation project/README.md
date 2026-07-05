@@ -36,7 +36,7 @@
 * [ER-диаграмма](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-New_ER%20(%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F).png);
 * [словарь данных](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/data-dictionary-final.png);
 * [диаграмма структуры интерфейсов](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-ISD.png);
-* прототип приложения;
+* [прототип приложения](https://www.figma.com/design/nejoXHmmdHItyWZlFiVj50/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF--%D0%9A%D1%83%D1%80%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2-%D0%95%D0%B3%D0%BE%D1%80-74-%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0---New-?node-id=4-581&t=3uRqBl5fDndIjUv1-1);
 * [программа и методика испытаний](https://docs.google.com/document/d/1_aw2j_NAcMYJvLU_E59dLha4U4ThIUvvZ6haHNodHho/edit?usp=sharing);
 * презентация проекта.
 
