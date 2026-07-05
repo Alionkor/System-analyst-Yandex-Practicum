@@ -31,8 +31,8 @@
 * пользовательские истории;
 * критерии приёмки;
 * сценарии приёмки Gherkin;
-* DFD контекстного уровня;
-* DFD логического уровня;
+* [DFD контекстного уровня](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-DFD%20(%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82).png);
+* [DFD логического уровня](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-New_DFD%20(%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9).png);
 * ER-диаграмма;
 * словарь данных;
 * [диаграмма структуры интерфейсов](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-ISD.png);
