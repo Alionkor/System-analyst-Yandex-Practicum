@@ -37,7 +37,7 @@
 * [словарь данных](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/data-dictionary-final.png);
 * [диаграмма структуры интерфейсов](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Graduation%20project/Part-1-diploma-ISD.png);
 * прототип приложения;
-* программа и методика испытаний;
+* [программа и методика испытаний](https://docs.google.com/document/d/1_aw2j_NAcMYJvLU_E59dLha4U4ThIUvvZ6haHNodHho/edit?usp=sharing);
 * презентация проекта.
 
 ## Инструменты и нотации
