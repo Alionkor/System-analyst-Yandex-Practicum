@@ -67,7 +67,7 @@
 
 ---
 
-## 04. Анализ REST API и постановка задачи на доработку
+## [04. Анализ REST API и постановка задачи на доработку](https://github.com/Alionkor/System-analyst-Yandex-Practicum/tree/main/Setting%20a%20task%20for%20a%20developer%20for%20a%20streaming%20service)
 
 Проект по анализу требований, изучению существующего REST API и подготовке задачи на доработку API.
 
