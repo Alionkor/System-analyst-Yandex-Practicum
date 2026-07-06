@@ -44,7 +44,7 @@
 
 ---
 
-## 03. User Story Map, MVP, прототипы и DFD
+## [03. User Story Map, MVP, прототипы и DFD](https://github.com/Alionkor/System-analyst-Yandex-Practicum/tree/main/Application%20backlog%20for%20a%20network%20of%20clinics)
 
 Проект по анализу требований и подготовке аналитических артефактов для приложения в рамках Agile-подхода.
 
