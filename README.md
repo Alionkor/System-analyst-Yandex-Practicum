@@ -24,7 +24,7 @@
 
 ---
 
-## 02. Логическая модель данных и словарь данных
+## [02. Логическая модель данных и словарь данных](https://github.com/Alionkor/System-analyst-Yandex-Practicum/tree/main/Data%20modeling%20and%20working%20with%20the%20online%20store%20database)
 
 Доработка спецификации веб-приложения через проектирование модели данных и словаря данных.
 
