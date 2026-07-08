@@ -24,7 +24,7 @@
 * Job Stories;
 * профиль API;
 * описание операций API;
-* Swagger / OpenAPI спецификация в формате YAML.
+* [Swagger / OpenAPI спецификация в формате YAML.](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Application%20Architecture%20and%20API%20Design/KuroedovEE_74cohort-new.yaml)
 
 ## Инструменты и нотации
 
