@@ -1,5 +1,5 @@
 # System-analyst-Yandex-Practicum
-# Проекты
+# Проекты / Projects
 
 ## [01. Спецификация требований к приложению](https://github.com/Alionkor/System-analyst-Yandex-Practicum/tree/main/Specification%20of%20application%20release%20requirements)
 
