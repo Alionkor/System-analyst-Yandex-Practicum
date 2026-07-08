@@ -40,3 +40,46 @@
 ## Результат
 
 Подготовлен комплект аналитических артефактов для проектирования первого релиза приложения. Материалы могут быть использованы командой разработки для уточнения объёма MVP, проектирования интерфейсов и описания потоков данных.
+
+# User Story Map, MVP, Prototypes, and DFD
+
+A project focused on requirements analysis and preparation of analytical artifacts for an application using an Agile approach.
+
+## Role
+
+System Analyst.
+
+## Completed Tasks
+
+* studied interviews with stakeholders;
+* identified user needs and key application requirements;
+* participated in creating the user story map;
+* described user stories;
+* defined the MVP for the first release;
+* prepared screen prototypes;
+* created a context-level DFD;
+* created a logical-level DFD;
+* participated in team review and approval of analytical artifacts.
+
+## Artifacts
+
+* [user story map](https://miro.com/app/board/uXjVGQQZHEk=/?share_link_id=243860539949);
+* MVP;
+* user stories;
+* [screen prototypes](https://www.figma.com/design/IzUal98u3vz40Uz2WQ34EH/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B---%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B5%D1%82--74-%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0--v2?node-id=0-1&p=f&t=EyQPpJczG45bNUpn-0);
+* [context-level DFD](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Application%20backlog%20for%20a%20network%20of%20clinics/Working_file_DFD%20(%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B5%D1%82%2C%2074%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0)-new-DFD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F.png);
+* logical-level DFD ([DFD-1](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Application%20backlog%20for%20a%20network%20of%20clinics/Working_file_DFD%20(%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B5%D1%82%2C%2074%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0)-new-DFD-1%20(%D0%9F%D1%80%D0%BE%D0%B9%D1%82%D0%B8%20%D0%BE%D0%B1%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5).png), [DFD-2](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Application%20backlog%20for%20a%20network%20of%20clinics/Working_file_DFD%20(%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B5%D1%82%2C%2074%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0)-new-DFD-2%20(%D0%9F%D1%80%D0%BE%D0%B9%D1%82%D0%B8%20%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B7%D0%BD%D0%BE%D0%B5%20%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5).png)).
+
+## Tools and Notations
+
+* User Story Mapping;
+* MVP;
+* User Story;
+* DFD;
+* Figma;
+* Miro;
+* diagrams.net.
+
+## Result
+
+A set of analytical artifacts was prepared for designing the first application release. The materials can be used by the development team to clarify the MVP scope, design interfaces, and describe data flows.
