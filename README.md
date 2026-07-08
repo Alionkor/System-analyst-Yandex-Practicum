@@ -135,3 +135,7 @@
 * профиль API;
 * описание операций API;
 * Swagger / OpenAPI YAML.
+
+## Выпускной документ / Graduation document
+[RUS](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9A%D1%83%D1%80%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2_2026-15103-036.pdf)
+[ENG](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Diploma_ENG_%D0%9A%D1%83%D1%80%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2_2026-15103-036.pdf)
