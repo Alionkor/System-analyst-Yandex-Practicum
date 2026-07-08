@@ -35,3 +35,41 @@
 ## Результат
 
 Подготовлены материалы для доработки API: проанализированы требования заказчика, проверены существующие операции, описан сценарий взаимодействия и сформулирована задача для команды разработки. Материалы могут быть использованы для реализации новой функции сервиса и согласования изменений в API.
+
+# REST API Analysis and Development Task Preparation
+
+A project focused on requirements analysis, studying an existing REST API, and preparing a development task for an API improvement.
+
+## Role
+
+System Analyst.
+
+## Completed Tasks
+
+* studied an interview with the customer representative;
+* identified requirements for a new service feature;
+* analyzed the existing architecture and API;
+* tested available API operations using Swagger;
+* created a sequence diagram for the new feature;
+* described the interaction scenario between systems;
+* prepared a development task for a new API operation.
+
+## Artifacts
+
+* [sequence diagram](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Setting%20a%20task%20for%20a%20developer%20for%20a%20streaming%20service/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_-_74_%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0.drawio.png);
+* API testing results;
+* description of the new API operation;
+* [development task](https://github.com/Alionkor/System-analyst-Yandex-Practicum/blob/main/Setting%20a%20task%20for%20a%20developer%20for%20a%20streaming%20service/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B5%D1%82_).pdf).
+
+## Tools and Notations
+
+* REST API;
+* Swagger / OpenAPI;
+* UML Sequence Diagram;
+* HTTP;
+* JSON;
+* API testing.
+
+## Result
+
+Materials for API improvement were prepared: customer requirements were analyzed, existing operations were tested, the interaction scenario was described, and a development task was formulated for the development team. The materials can be used to implement the new service feature and approve API changes.
