@@ -1,0 +1,152 @@
+openapi: 3.0.0
+info:
+  title: API сервиса Lucky Insurance
+  description: >-
+    Коллекция запросов API сервиса Lucky Insurance. Сервис предоставляет
+    информацию о доступных страховых продуктах для домашних животных.
+  version: 1.0.1
+  contact:
+    name: Lucky Insurance API
+    url: https://lucky.com/info
+    email: LuckyInsurance@lucky.com
+  termsOfService: https://lucky.com/terms
+  license:
+    name: license 1.0.1 Lucky
+    url: https://lucky.com/license
+servers:
+  - url: https://4453f729-1913-49be-9dcc-b7a316afa17f.mock.pstmn.io
+    description: Mock-сервер сервиса Lucky Insurance
+tags:
+  - name: Insurance products
+    description: Операции для получения каталога страховых продуктов
+paths:
+  /insurance-products:
+    get:
+      tags:
+        - Insurance products
+      summary: Получить список доступных страховых продуктов
+      description: >-
+        Возвращает полный список доступных страховых продуктов для домашних
+        животных. Сервис возвращает только доступные для заказа страховки.
+      operationId: getInsuranceProducts
+      parameters:
+        - name: locale
+          in: query
+          required: false
+          description: Язык интерфейса для локализации текстов в ответе.
+          schema:
+            type: string
+            example: ru-RU
+      responses:
+        '200':
+          description: Список доступных страховых продуктов успешно получен
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - description
+                  - insurances
+                properties:
+                  description:
+                    type: string
+                    description: Общее описание раздела страхования домашних животных.
+                    example: Помощь ветеринара 24/7. Онлайн-консультации. Большой выбор ветклиник.
+                  insurances:
+                    type: array
+                    description: Список доступных страховых продуктов.
+                    items:
+                      $ref: '#/components/schemas/InsuranceProduct'
+        '400':
+          description: Некорректный запрос
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '401':
+          description: Пользователь не авторизован
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '404':
+          description: Страховые продукты не найдены
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '500':
+          description: Внутренняя ошибка сервиса
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+components:
+  schemas:
+    InsuranceProduct:
+      required:
+        - id
+        - petType
+        - name
+        - benefits
+        - details
+        - price
+        - currency
+        - period
+      type: object
+      properties:
+        id:
+          type: string
+          description: Уникальный идентификатор страхового продукта.
+          example: ins-dog-001
+        petType:
+          type: string
+          description: Вид питомца, для которого доступен страховой продукт.
+          example: собака
+          enum:
+            - кошка
+            - собака
+        name:
+          type: string
+          description: Название страхового продукта.
+          example: Страхование для собак
+        benefits:
+          type: array
+          description: Список преимуществ страхового продукта.
+          items:
+            type: string
+          example:
+            - Помощь ветеринара 24/7
+            - Онлайн-консультации
+            - Большой выбор ветклиник
+        details:
+          type: string
+          description: Описание покрытия и условий страхового продукта.
+          example: Круглосуточные консультации ветеринарного врача по телефону, в чате или видеосвязи. Включена ежегодная вакцинация от бешенства.
+        price:
+          type: integer
+          format: int32
+          description: Целочисленная стоимость страхового продукта за указанный период.
+          example: 50000
+        currency:
+          type: string
+          description: Валюта стоимости страхового продукта.
+          example: RUB
+        period:
+          type: string
+          description: Период действия стоимости страхового продукта.
+          example: year
+    ErrorResponse:
+      required:
+        - code
+        - message
+      type: object
+      properties:
+        code:
+          type: string
+          description: Код ошибки.
+          example: VALIDATION_ERROR
+        message:
+          type: string
+          description: Описание ошибки.
+          example: Некорректное значение параметра locale.
